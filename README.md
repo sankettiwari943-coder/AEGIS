@@ -534,7 +534,7 @@ EVIDENCE	Evidence and silent-risk analysis
 
 ADAPTIVE	Feedback and calibration
 
-AI	AI Disaster Orchestrator and SOP RAG
+AI Disaster Orchestrator and SOP RAG
 ---
 🧪 Automated Testing
 AEGIS includes an automated backend test suite covering the major analytical engines and API components.
