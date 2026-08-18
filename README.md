@@ -1,10 +1,6 @@
 🛡️ AEGIS
 AI Emergency & Geospatial Intelligence System
 > \*\*See the disaster. Predict the next crisis. Act before it happens.\*\*
-![Hackathon](https://github.com/sankettiwari943-coder/AEGIS)
-![Team](https://github.com/sankettiwari943-coder/AEGIS)
-![Tests](#-automated-testing)
-![License](LICENSE)
 ---
 🚨 About AEGIS
 AEGIS (AI Emergency & Geospatial Intelligence System) is an AI-powered disaster intelligence and decision-support platform designed to help emergency-response teams move from reactive response to predictive action.
