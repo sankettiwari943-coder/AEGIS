@@ -1,5 +1,6 @@
 🛡️ AEGIS
 AI Emergency & Geospatial Intelligence System
+
 See the disaster. Predict the next crisis. Act before it happens.
 ---
 🚨 About AEGIS
@@ -31,22 +32,26 @@ LEARN
 ---
 🎯 Hackathon
 AUTOMATE INDIA 2026 — NIET CHAPTER
+
 Team: The Catalyst
-Problem Statement:  
-AI-01 — AI Disaster Response Intelligence Platform
-Theme:  
-Generative AI
-Institution:  
-Noida Institute of Engineering and Technology (NIET)
+
+Problem Statement:  AI-01 — AI Disaster Response Intelligence Platform
+
+Theme:  Generative AI
+
+Institution:  Noida Institute of Engineering and Technology (NIET)
 ---
 🚨 Problem Statement
 During disasters such as floods, cyclones, earthquakes, and urban inundation, emergency-response teams have to make decisions using information that is fragmented, rapidly changing, and sometimes incomplete.
 Some of the major challenges include:
+
 1. Reactive Response
 Traditional dashboards often show what has already happened rather than what is likely to happen next.
 By the time a response team reaches a reported location, roads or access routes may already have become unusable.
+
 2. Cascading Failures
 A disaster rarely affects only one system.
+
 For example:
 ```text
 Flooding
@@ -59,21 +64,27 @@ Medical Response Delayed
    ↓
 Higher Operational Risk
 ```
+
 AEGIS models these relationships to identify secondary and cascading risks.
+
 3. Silent Crisis
 A lack of SOS reports does not necessarily mean that an area is safe.
 Communication outages, infrastructure failures, or network loss can prevent affected populations from reporting their situation.
 AEGIS therefore considers communication anomalies and population exposure when identifying potentially silent-risk zones.
+
 4. Nearest Does Not Always Mean Best
 The closest rescue vehicle may not be suitable for the situation.
 A vehicle's capabilities, water clearance, medical resources, and operational constraints can be more important than simple geographic distance.
+
 5. No Pre-Execution Testing
 Emergency commanders often need to choose between multiple interventions without knowing how each action may affect the overall risk.
 AEGIS provides a What-If Simulation Sandbox to compare possible interventions before deployment.
+
 6. Lack of Feedback
 Disaster-response systems can remain static after an event.
 AEGIS includes an adaptive feedback loop that compares predicted outcomes with observed outcomes and uses the difference for calibration.
 ---
+
 💡 Our Solution
 AEGIS transforms disaster management from a passive information dashboard into an active predictive decision-support system.
 Instead of only showing:
@@ -131,6 +142,7 @@ Core principle
 This keeps the system focused on decision support rather than autonomous emergency command.
 ---
 ✨ Key Features
+
 🔮 1. Predictive Intelligence Engine
 AEGIS provides multi-horizon disaster forecasting across:
 T+0
@@ -144,6 +156,7 @@ Power
 Water
 Telecommunications
 ---
+
 🔗 2. Cascading Risk Intelligence
 AEGIS models dependencies between infrastructure and disaster conditions using graph-based risk propagation.
 Example:
@@ -160,6 +173,7 @@ Medical Response Risk ↑
 ```
 The system uses NetworkX-based dependency graphs to represent multi-hop relationships between infrastructure components.
 ---
+
 👻 3. Silent Risk Detection
 One of AEGIS's key ideas is:
 > \\\\\\\*\\\\\\\*No SOS does not always mean no crisis.\\\\\\\*\\\\\\\*
@@ -170,6 +184,7 @@ Communication activity is unexpectedly low
 Infrastructure/network anomalies are present
 This helps surface areas that might otherwise be overlooked.
 ---
+
 🕵️ 4. Evidence & Multi-Source Verification
 Disaster information can be incomplete or conflicting.
 AEGIS provides an evidence and provenance layer that:
@@ -180,6 +195,7 @@ Maintains decision traceability
 Provides evidence-backed context for AI recommendations
 The system is designed to reduce reliance on unsupported AI-generated claims.
 ---
+
 🚑 5. Capability-Aware Mission Optimization
 AEGIS does not simply select the nearest rescue team.
 It evaluates operational suitability using factors such as:
@@ -203,6 +219,7 @@ Suitability: Higher
 ```
 The system can therefore prioritize the most suitable mission, not merely the closest one.
 ---
+
 🧪 6. What-If Disaster Simulation
 The What-If Sandbox allows emergency commanders to compare possible intervention strategies.
 Example:
@@ -220,6 +237,7 @@ This makes the system useful not only for:
 but also:
 "What should we do?"
 ---
+
 🤖 7. AI Disaster Orchestrator
 AEGIS includes a multi-agent AI orchestration layer that routes emergency queries through verified internal analytical tools.
 Examples include:
@@ -231,11 +249,13 @@ run\\\\\\\_simulation
 ```
 The orchestrator can combine outputs from different analytical components and present them in an operational context.
 ---
+
 📚 8. SOP Retrieval-Augmented Generation
 AEGIS includes a grounded SOP knowledge layer for disaster-response procedures.
 The RAG layer provides contextual retrieval from operational procedure documents and connects retrieved information with the AI orchestration workflow.
 This allows the system to provide responses grounded in the available operational knowledge base instead of relying only on free-form generation.
 ---
+
 🔄 9. Adaptive Intelligence
 AEGIS includes a closed-loop learning concept:
 ```text
@@ -253,6 +273,7 @@ Improved Future Prediction
 ```
 The adaptive engine tracks predicted versus observed outcomes and applies calibration adjustments to improve future forecasts.
 ---
+
 🗺️ 10. Tactical Geospatial & Computer Vision Intelligence
 AEGIS provides a geospatial operational interface using MapLibre GL.
 The interface supports:
@@ -514,34 +535,35 @@ Integration workflows
 📸 Screenshots
 > Screenshots will be added before final submission.
 Command Center
-[ SCREENSHOT PLACEHOLDER — ADD COMMAND CENTER SCREENSHOT HERE ]
+[ <img width="2836" height="1508" alt="image" src="https://github.com/user-attachments/assets/2458cdca-f584-450c-9ae2-73bf1f8f5cb3" />
+ ]
 ---
 Live Tactical HUD
-[ SCREENSHOT PLACEHOLDER — ADD LIVE HUD SCREENSHOT HERE ]
+[ <img width="2852" height="1522" alt="image" src="https://github.com/user-attachments/assets/3dd3b507-b9d5-4cfd-9090-532e415f4db8" /> ]
 ---
 Prediction Intelligence
-[ SCREENSHOT PLACEHOLDER — ADD PREDICTION SCREENSHOT HERE ]
+[ <img width="2845" height="1524" alt="image" src="https://github.com/user-attachments/assets/590b0bb7-083d-4c2a-97bc-d3b251469436" /> ]
 ---
 Evidence & Silent Risk
-[ SCREENSHOT PLACEHOLDER — ADD EVIDENCE SCREENSHOT HERE ]
+[ <img width="2850" height="1529" alt="image" src="https://github.com/user-attachments/assets/a3206026-4aca-4315-8e71-afddfda1f8c1" /> ]
 ---
 Mission Optimization
-[ SCREENSHOT PLACEHOLDER — ADD MISSIONS SCREENSHOT HERE ]
+[ <img width="2843" height="1531" alt="image" src="https://github.com/user-attachments/assets/9e5dab48-adb0-405f-9632-a6b14ddfd175" /> ]
 ---
 What-If Simulation
-[ SCREENSHOT PLACEHOLDER — ADD SIMULATION SCREENSHOT HERE ]
+[ <img width="2855" height="1520" alt="image" src="https://github.com/user-attachments/assets/73d70721-be75-43af-ae4f-2067bb4c157d" /> ]
 ---
 Adaptive Intelligence
-[ SCREENSHOT PLACEHOLDER — ADD ADAPTIVE SCREENSHOT HERE ]
+[ <img width="2859" height="1518" alt="image" src="https://github.com/user-attachments/assets/847c3920-38c3-43e6-8c0a-ad72b2535408" /> ]
 ---
 AI Disaster Orchestrator
-[ SCREENSHOT PLACEHOLDER — ADD AI SCREENSHOT HERE ]
+[ <img width="2831" height="1526" alt="image" src="https://github.com/user-attachments/assets/f3850757-318b-48b5-97ec-d2f167d31453" /> ]
 ---
 🎥 Demo
 Live Deployment
 [ LIVE DEMO LINK — TO BE ADDED ]
 Demo Video
-[ DEMO VIDEO LINK — TO BE ADDED ]
+[ https://drive.google.com/drive/folders/1AP9lEL_ji0dRgbTOfsKJ8dCV__lfHOkr?usp=drive_link ]
 ---
 🔐 Safety & Responsible AI
 AEGIS is designed as a decision-support system, not an autonomous replacement for emergency authorities.
