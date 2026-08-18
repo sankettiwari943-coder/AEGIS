@@ -385,21 +385,36 @@ P --> Q
 Q --> F
 ```
 ---
+
 🛠️ Technology Stack
+
 Layer	Technology	Purpose
+
 Frontend	React + TypeScript	Interactive operational dashboard
+
 Build Tool	Vite	Frontend development/build
+
 Styling	Tailwind CSS / Tactical UI styling	Interface design
+
 Mapping	MapLibre GL	Geospatial visualization
+
 Backend	FastAPI	REST API and backend services
+
 Language	Python	Intelligence and backend services
+
 Graph Analysis	NetworkX	Cascading-risk dependency graph
+
 AI Orchestration	Multi-Agent Tool Router	AI tool coordination
+
 RAG	In-memory SOP Vector Store	Grounded procedural retrieval
+
 Computer Vision	CV Service	Aerial/satellite-style damage assessment
+
 Testing	Pytest	Backend/unit/integration testing
+
 API Documentation	Swagger / ReDoc	Backend API documentation
 ---
+
 📂 Project Structure
 ```text
 AEGIS/
@@ -443,10 +458,15 @@ AEGIS/
 ```
 ---
 🚀 Quick Start
+
 Prerequisites
+
 Node.js 18+
+
 Python 3.10+
+
 npm
+
 pip
 ---
 1. Clone the Repository
@@ -558,26 +578,32 @@ Integration workflows
 📸 Screenshots
 
 Command Center
+
  <img width="2836" height="1508" alt="image" src="https://github.com/user-attachments/assets/2458cdca-f584-450c-9ae2-73bf1f8f5cb3" /> 
 ---
 
 Live Tactical HUD
+
  <img width="2852" height="1522" alt="image" src="https://github.com/user-attachments/assets/3dd3b507-b9d5-4cfd-9090-532e415f4db8" /> 
 ---
 
 Prediction Intelligence
+
  <img width="2845" height="1524" alt="image" src="https://github.com/user-attachments/assets/590b0bb7-083d-4c2a-97bc-d3b251469436" /> 
 ---
 
 Evidence & Silent Risk
+
  <img width="2850" height="1529" alt="image" src="https://github.com/user-attachments/assets/a3206026-4aca-4315-8e71-afddfda1f8c1" /> 
 ---
 
 Mission Optimization
+
  <img width="2843" height="1531" alt="image" src="https://github.com/user-attachments/assets/9e5dab48-adb0-405f-9632-a6b14ddfd175" /> 
 ---
 
 What-If Simulation
+
  <img width="2855" height="1520" alt="image" src="https://github.com/user-attachments/assets/73d70721-be75-43af-ae4f-2067bb4c157d" /> 
 ---
 
@@ -586,14 +612,18 @@ Adaptive Intelligence
 ---
 
 AI Disaster Orchestrator
+
  <img width="2831" height="1526" alt="image" src="https://github.com/user-attachments/assets/f3850757-318b-48b5-97ec-d2f167d31453" /> 
 ---
 
 🎥 Demo
+
 Live Deployment
+  
   LIVE DEMO LINK — TO BE ADDED 
 
 Demo Video
+
  https://drive.google.com/drive/folders/1AP9lEL_ji0dRgbTOfsKJ8dCV__lfHOkr?usp=drive_link 
 ---
 
