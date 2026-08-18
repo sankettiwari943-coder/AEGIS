@@ -31,13 +31,14 @@ LEARN
 ---
 🎯 Hackathon
 AUTOMATE INDIA 2026 — NIET CHAPTER
+
 Team: The Catalyst
-Problem Statement:  
-AI-01 — AI Disaster Response Intelligence Platform
-Theme:  
-Generative AI
-Institution:  
-Noida Institute of Engineering and Technology (NIET)
+
+Problem Statement:  AI-01 — AI Disaster Response Intelligence Platform
+
+Theme:  Generative AI
+
+Institution:  Noida Institute of Engineering and Technology (NIET)
 ---
 🚨 Problem Statement
 During disasters such as floods, cyclones, earthquakes, and urban inundation, emergency-response teams have to make decisions using information that is fragmented, rapidly changing, and sometimes incomplete.
