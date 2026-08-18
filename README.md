@@ -495,15 +495,25 @@ http://localhost:5173
 ```
 ---
 🎮 Demo Navigation
+
 AEGIS provides dedicated operational views for the major parts of the intelligence lifecycle.
+
 View	Purpose
+
 COMMAND	Operational overview and priority alerts
+
 LIVE HUD	Tactical GIS and situation visualization
+
 PREDICT	Forward risk horizons
+
 SIMULATE	What-If intervention analysis
+
 MISSIONS	Mission ranking and authorization
+
 EVIDENCE	Evidence and silent-risk analysis
+
 ADAPTIVE	Feedback and calibration
+
 AI	AI Disaster Orchestrator and SOP RAG
 ---
 🧪 Automated Testing
@@ -519,64 +529,80 @@ Current Test Status
 0 failed
 ```
 The test suite includes coverage for:
+
 Adaptive Engine
+
 AI Orchestrator
+
 API
+
 Cascading Engine
+
 Computer Vision Service
+
 Evidence Engine
+
 Ingestion Service
+
 Mission Optimizer
+
 Prediction Engine
+
 RAG Service
+
 Simulation Engine
+
 Integration workflows
 ---
+
 📸 Screenshots
 
 Command Center
-[ <img width="2836" height="1508" alt="image" src="https://github.com/user-attachments/assets/2458cdca-f584-450c-9ae2-73bf1f8f5cb3" /> ]
+ <img width="2836" height="1508" alt="image" src="https://github.com/user-attachments/assets/2458cdca-f584-450c-9ae2-73bf1f8f5cb3" /> 
 ---
 
 Live Tactical HUD
-[ <img width="2852" height="1522" alt="image" src="https://github.com/user-attachments/assets/3dd3b507-b9d5-4cfd-9090-532e415f4db8" /> ]
+ <img width="2852" height="1522" alt="image" src="https://github.com/user-attachments/assets/3dd3b507-b9d5-4cfd-9090-532e415f4db8" /> 
 ---
 
 Prediction Intelligence
-[ <img width="2845" height="1524" alt="image" src="https://github.com/user-attachments/assets/590b0bb7-083d-4c2a-97bc-d3b251469436" /> ]
+ <img width="2845" height="1524" alt="image" src="https://github.com/user-attachments/assets/590b0bb7-083d-4c2a-97bc-d3b251469436" /> 
 ---
 
 Evidence & Silent Risk
-[ <img width="2850" height="1529" alt="image" src="https://github.com/user-attachments/assets/a3206026-4aca-4315-8e71-afddfda1f8c1" /> ]
+ <img width="2850" height="1529" alt="image" src="https://github.com/user-attachments/assets/a3206026-4aca-4315-8e71-afddfda1f8c1" /> 
 ---
 
 Mission Optimization
-[ <img width="2843" height="1531" alt="image" src="https://github.com/user-attachments/assets/9e5dab48-adb0-405f-9632-a6b14ddfd175" /> ]
+ <img width="2843" height="1531" alt="image" src="https://github.com/user-attachments/assets/9e5dab48-adb0-405f-9632-a6b14ddfd175" /> 
 ---
 
 What-If Simulation
-[ <img width="2855" height="1520" alt="image" src="https://github.com/user-attachments/assets/73d70721-be75-43af-ae4f-2067bb4c157d" /> ]
+ <img width="2855" height="1520" alt="image" src="https://github.com/user-attachments/assets/73d70721-be75-43af-ae4f-2067bb4c157d" /> 
 ---
 
 Adaptive Intelligence
-[ <img width="2859" height="1518" alt="image" src="https://github.com/user-attachments/assets/847c3920-38c3-43e6-8c0a-ad72b2535408" /> ]
+ <img width="2859" height="1518" alt="image" src="https://github.com/user-attachments/assets/847c3920-38c3-43e6-8c0a-ad72b2535408" /> 
 ---
 
 AI Disaster Orchestrator
-[ <img width="2831" height="1526" alt="image" src="https://github.com/user-attachments/assets/f3850757-318b-48b5-97ec-d2f167d31453" /> ]
+ <img width="2831" height="1526" alt="image" src="https://github.com/user-attachments/assets/f3850757-318b-48b5-97ec-d2f167d31453" /> 
 ---
 
 🎥 Demo
 Live Deployment
-[ LIVE DEMO LINK — TO BE ADDED ]
+  LIVE DEMO LINK — TO BE ADDED 
 
 Demo Video
-[ https://drive.google.com/drive/folders/1AP9lEL_ji0dRgbTOfsKJ8dCV__lfHOkr?usp=drive_link ]
+ https://drive.google.com/drive/folders/1AP9lEL_ji0dRgbTOfsKJ8dCV__lfHOkr?usp=drive_link 
 ---
 
 🔐 Safety & Responsible AI
+
 AEGIS is designed as a decision-support system, not an autonomous replacement for emergency authorities.
+
 The system follows a human-in-the-loop principle:
+
 ```text
 
 AI Analysis
@@ -589,36 +615,48 @@ Authorization
     ↓
 Operational Action
 ```
+
 The current hackathon implementation uses simulated disaster data and should not be treated as a production emergency-management system without further validation, real-world data integration, security hardening, and operational testing.
 ---
 
 🔮 Future Scope
+
 Future versions of AEGIS can expand toward:
+
 Real-time disaster-data integrations
+
 Live satellite and weather feeds
+
 Additional disaster types
+
 Larger-scale GIS deployments
+
 Real emergency-service integrations
+
 More advanced predictive models
+
 Real-world field validation
+
 Mobile responder applications
+
 Larger SOP and knowledge bases
+
 Production-grade authentication and security
 ---
 
 👥 Team — The Catalyst
 
-Member	Role
+Member         Role
 
-Sanket Tiwari	Team Leader
+Sanket Tiwari-	Team Leader
 
-Apurva Diwedi	AI Developer
+Apurva Diwedi-	AI Developer
 
-Ishant	Frontend Developer
+Ishant-	Frontend Developer
 
-Bhumi Chowdhary	Backend Developer
+Bhumi Chowdhary-	Backend Developer
 
-Hackathon
+Hackathon:
 
 AUTOMATE INDIA 2026 — NIET CHAPTER
 
@@ -626,6 +664,7 @@ Institution:
 
 Noida Institute of Engineering and Technology (NIET)
 ---
+
 📜 License
 
 This project is distributed under the MIT License.
@@ -634,5 +673,5 @@ See the LICENSE file for details.
 ---
 
 ⚠️ Disclaimer
+
 AEGIS is a hackathon prototype created for demonstrating AI-powered disaster intelligence and decision-support concepts.
-The current demonstration uses simulated/deterministic disaster data and is not intended to provide real-world emergency instructions or replace trained disaster-response au
