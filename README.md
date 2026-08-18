@@ -1,6 +1,8 @@
 🛡️ AEGIS
 AI Emergency & Geospatial Intelligence System
 > **See the disaster. Predict the next crisis. Act before it happens.**
+📌 Quick Navigation
+About · Problem · Solution · Features · Architecture · Tech Stack · Setup · Testing · Demo · Team
 ---
 🚨 About AEGIS
 AEGIS (AI Emergency & Geospatial Intelligence System) is an AI-powered disaster intelligence and decision-support platform designed to help emergency-response teams move from reactive response to predictive action.
@@ -126,7 +128,7 @@ Core principle
 This keeps the system focused on decision support rather than autonomous emergency command.
 ---
 ✨ Key Features
-🔮 1. Predictive Intelligence Engine
+1. 🔮 Predictive Intelligence Engine
 AEGIS provides multi-horizon disaster forecasting across:
 T+0
 T+30 minutes
@@ -138,7 +140,7 @@ Medical access
 Power
 Water
 Telecommunications
-🔗 2. Cascading Risk Intelligence
+2. 🔗 Cascading Risk Intelligence
 AEGIS models dependencies between infrastructure and disaster conditions using graph-based risk propagation.
 Example:
 ```text
@@ -153,7 +155,7 @@ Hospital Access ↓
 Medical Response Risk ↑
 ```
 The system uses NetworkX-based dependency graphs to represent multi-hop relationships between infrastructure components.
-👻 3. Silent Risk Detection
+3. 👻 Silent Risk Detection
 One of AEGIS's key ideas is:
 > **No SOS does not always mean no crisis.**
 The Silent Risk Engine identifies potentially dangerous zones where:
@@ -163,7 +165,7 @@ Communication activity is unexpectedly low
 Infrastructure/network anomalies are present
 This helps surface areas that might otherwise be overlooked.
 ---
-🕵️ 4. Evidence & Multi-Source Verification
+4. 🕵️ Evidence & Multi-Source Verification
 Disaster information can be incomplete or conflicting.
 AEGIS provides an evidence and provenance layer that:
 Tracks operational claims
@@ -172,7 +174,7 @@ Correlates available information
 Maintains decision traceability
 Provides evidence-backed context for AI recommendations
 The system is designed to reduce reliance on unsupported AI-generated claims.
-🚑 5. Capability-Aware Mission Optimization
+5. 🚑 Capability-Aware Mission Optimization
 AEGIS does not simply select the nearest rescue team.
 It evaluates operational suitability using factors such as:
 Distance
@@ -194,7 +196,7 @@ Medical Capability: Available
 Suitability: Higher
 ```
 The system can therefore prioritize the most suitable mission, not merely the closest one.
-🧪 6. What-If Disaster Simulation
+6. 🧪 What-If Disaster Simulation
 The What-If Sandbox allows emergency commanders to compare possible intervention strategies.
 Example:
 ```text
@@ -210,7 +212,7 @@ This makes the system useful not only for:
 "What is happening?"
 but also:
 "What should we do?"
-🤖 7. AI Disaster Orchestrator
+7. 🤖 AI Disaster Orchestrator
 AEGIS includes a multi-agent AI orchestration layer that routes emergency queries through verified internal analytical tools.
 Examples include:
 ```text
@@ -220,11 +222,11 @@ get\_cascading\_risks
 run\_simulation
 ```
 The orchestrator can combine outputs from different analytical components and present them in an operational context.
-📚 8. SOP Retrieval-Augmented Generation
+8. 📚 SOP Retrieval-Augmented Generation
 AEGIS includes a grounded SOP knowledge layer for disaster-response procedures.
 The RAG layer provides contextual retrieval from operational procedure documents and connects retrieved information with the AI orchestration workflow.
 This allows the system to provide responses grounded in the available operational knowledge base instead of relying only on free-form generation.
-🔄 9. Adaptive Intelligence
+9. 🔄 Adaptive Intelligence
 AEGIS includes a closed-loop learning concept:
 ```text
 Prediction
@@ -240,7 +242,7 @@ Calibration
 Improved Future Prediction
 ```
 The adaptive engine tracks predicted versus observed outcomes and applies calibration adjustments to improve future forecasts.
-🗺️ 10. Tactical Geospatial & Computer Vision Intelligence
+10. 🗺️ Tactical Geospatial & Computer Vision Intelligence
 AEGIS provides a geospatial operational interface using MapLibre GL.
 The interface supports:
 Disaster-zone visualization
@@ -564,6 +566,10 @@ Any deployment in a real emergency-management environment would require extensiv
 🌐 Repository
 GitHub:  
 https://github.com/sankettiwari943-coder/AEGIS
-AEGIS
-> **See the disaster. Predict the next crisis. Act before it happens.**
-Built by 
+---
+<div align="center">
+🛡️ AEGIS
+AI Emergency & Geospatial Intelligence System
+See the disaster. Predict the next crisis. Act before it happens.
+Built by Team The Catalyst for AUTOMATE INDIA 2026 — NIET CHAPTER
+</div>
