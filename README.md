@@ -620,7 +620,7 @@ AI Disaster Orchestrator
 
 Live Deployment
   
-  LIVE DEMO LINK — TO BE ADDED 
+  LIVE DEMO LINK — (https://aegisssss.netlify.app/)
 
 Demo Video
 
